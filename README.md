@@ -4,9 +4,11 @@ Sitio web multipágina y responsive que presenta el IES Tetuán de las Victorias
 
 > Proyecto del módulo **Diseño de Interfaces Web** (2º DAW).
 
-🔗 **Demo:** https://3r4yn.github.io/ies-tetuan-web/  <!-- TODO: activa GitHub Pages y comprueba el enlace -->
+🔗 **Demo:** https://3r4yn.github.io/ies-tetuan-web/ies-tetuan/
 
-![Captura de la portada](docs/captura-inicio.png) <!-- TODO: añade capturas de escritorio y móvil -->
+![Portada en escritorio](docs/captura-inicio.png)
+
+<img src="docs/captura-movil.png" alt="Portada en móvil" width="280">
 
 ---
 
@@ -47,7 +49,7 @@ cd ies-tetuan-web/ies-tetuan
 - **Nomenclatura tipo BEM** (`primeraseccion__imagen`, `boton--principal`) para que los estilos sean predecibles y no se pisen entre secciones.
 - **Accesibilidad:** `aria-label` en la navegación, `aria-current="page"` en el enlace activo y textos `alt` descriptivos.
 - **Favicons en varios tamaños** e iconos de 192/512 px, preparados para instalar la web como PWA.
-- **Mobile first:** <!-- TODO: explica tus breakpoints -->
+- **Responsive:** un único breakpoint a 860 px; por debajo, la navegación se oculta tras el botón de menú y las secciones pasan a una sola columna.
 
 ## 🔜 Próximas mejoras
 
