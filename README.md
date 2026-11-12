@@ -59,4 +59,4 @@ cd ies-tetuan-web/ies-tetuan
 
 ## 👤 Autor
 
-**Brayan** — Estudiante de 2º DAW · [GitHub](https://github.com/3r4yn) · <!-- TODO: LinkedIn -->
+**Brayan** — Estudiante de 2º DAW · [GitHub](https://github.com/3r4yn) · [LinkedIn](https://www.linkedin.com/in/brayan-reatiqu%C3%AD-arequipa-5b48373a0/)
